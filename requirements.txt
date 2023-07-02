@@ -1,7 +1,0 @@
-ipykernel==6.23.2
-cuda_python==12.1.0
-h5py==3.9.0
-tensorflow==2.12.0
-matplotlib
-scikit-learn
-astroNN
