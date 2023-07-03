@@ -7,4 +7,6 @@ The three super resolution models are the following:
 - [BSRGAN](https://github.com/cszn/BSRGAN)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 
-The dataset is [Galaxy10 DECals](https://astronn.readthedocs.io/en/latest/galaxy10.html) 
+The dataset is [Galaxy10 DECals](https://astronn.readthedocs.io/en/latest/galaxy10.html).
+
+For more informations, you can read the report `Galaxy10_SuperResolution_report.pdf`.
